@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "@netlify/functions": "^2.0.0",
-    "nodemailer": "^6.9.0"
+    "nodemailer": "^6.10.1"
   },
   "devDependencies": {
     "netlify-cli": "^17.0.0"
   }
-} 
+}
